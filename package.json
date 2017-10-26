@@ -1,0 +1,21 @@
+{
+  "name": "node-felica",
+  "version": "1.0.0",
+  "description": "RC-S620S FeliCa reader's node implementation for raspberry Pi",
+  "main": "Rcs620s.js",
+  "dependencies": { "serialport": "^6.0.0" },
+  "devDependencies": { "serialport": "^6.0.0" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocoabox/node-felica.git"
+  },
+  "author": "@0xcocoa",
+  "license": "LGPL",
+  "bugs": {
+    "url": "https://github.com/cocoabox/node-felica/issues"
+  },
+  "homepage": "https://github.com/cocoabox/node-felica#readme"
+}
